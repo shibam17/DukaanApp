@@ -8,9 +8,11 @@
     "scheme": "dukaanmanager",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dukaanmanager.app"
     },
     "android": {
+      "package": "com.dukaanmanager.app",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
